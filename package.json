@@ -1,0 +1,22 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "To do List web application with express and MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lejla1233/todo-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lejla1233/todo-list/issues"
+  },
+  "homepage": "https://github.com/lejla1233/todo-list#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
