@@ -10,13 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/lejla1233/todo-list.git"
   },
-  "author": "",
+  "author": "Lejla Haliti",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lejla1233/todo-list/issues"
   },
   "homepage": "https://github.com/lejla1233/todo-list#readme",
   "dependencies": {
+    "ejs": "^2.5.7",
     "express": "^4.16.2"
   }
 }
